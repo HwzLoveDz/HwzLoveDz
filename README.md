@@ -1,6 +1,6 @@
 # Visitor ![Visitor Count](https://profile-counter.glitch.me/HwzLoveDz/count.svg)
 
-###    📺welcome to my home 📺
+###    📺 welcome to my github 📺
 
 ***
 [![my GitHub stats](https://github-readme-stats.vercel.app/api?username=HwzLoveDz&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
