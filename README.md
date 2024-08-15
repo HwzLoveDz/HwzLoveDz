@@ -26,10 +26,22 @@
 <img alt="clion" src="https://img.shields.io/badge/-clion-%23000000?style=flat-square&logo=clion&logoColor=white"/>
 <img alt="eclipseide" src="https://img.shields.io/badge/-eclipseide-%232C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
 <img alt="mingww64" src="https://img.shields.io/badge/-mingww64-%23000000?style=flat-square&logo=mingww64&logoColor=white"/>
-<img alt="" src=""/>
-<img alt="" src=""/>
-<img alt="" src=""/>
-<img alt="" src=""/>
+<img alt="multisim" src="https://img.shields.io/badge/-multisim-%2357B685?style=flat-square&logo=multisim&logoColor=white"/>
+<img alt="inkscape" src="https://img.shields.io/badge/-inkscape-%23000000?style=flat-square&logo=inkscape&logoColor=white"/>
+<img alt="asus" src="https://img.shields.io/badge/-asus-%23000000?style=flat-square&logo=asus&logoColor=white"/>
+<img alt="republicofgamers" src="https://img.shields.io/badge/-republicofgamers-%23FF0029?style=flat-square&logo=republicofgamers&logoColor=white"/>
+<img alt="sketchup" src="https://img.shields.io/badge/-sketchup-%23005F9E?style=flat-square&logo=sketchup&logoColor=white"/>
+<img alt="autodesk" src="https://img.shields.io/badge/-autodesk-%23000000?style=flat-square&logo=autodesk&logoColor=white"/>
+<img alt="joplin" src="https://img.shields.io/badge/-joplin-%231071D3?style=flat-square&logo=joplin&logoColor=white"/>
+<img alt="blender" src="https://img.shields.io/badge/-blender-%23E87D0D?style=flat-square&logo=blender&logoColor=white"/>
+<img alt="mqtt" src="https://img.shields.io/badge/-mqtt-%23660066?style=flat-square&logo=mqtt&logoColor=white"/>
+<img alt="Google" src="https://img.shields.io/badge/-Google-%234285F4?style=flat-square&logo=Google&logoColor=white"/>
+<img alt="cmake" src="https://img.shields.io/badge/-cmake-%23064F8C?style=flat-square&logo=cmake&logoColor=white"/>
+<img alt="intel" src="https://img.shields.io/badge/-intel-%230071C5?style=flat-square&logo=intel&logoColor=white"/>
+<img alt="intellijidea" src="https://img.shields.io/badge/-intellijidea-%23000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img alt="opensourcehardware" src="https://img.shields.io/badge/-opensourcehardware-%230099B0?style=flat-square&logo=opensourcehardware&logoColor=white"/>
+<img alt="opensourceinitiative" src="https://img.shields.io/badge/-opensourceinitiative-%233DA639?style=flat-square&logo=opensourceinitiative&logoColor=white"/>
+<img alt="openai" src="https://img.shields.io/badge/-openai-%23412991?style=flat-square&logo=openai&logoColor=white"/>
 
 <p align="center">
   <code><img height="35" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/arduino/arduino.png"></code>
