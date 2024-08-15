@@ -17,6 +17,15 @@
 <img alt="micropython" src="https://img.shields.io/badge/-micropython-%232B2728?style=flat-square&logo=micropython&logoColor=white"/>
 <img alt="pycharm" src="https://img.shields.io/badge/-pycharm-%23000000?style=flat-square&logo=pycharm&logoColor=white"/>
 <img alt="nvidia" src="https://img.shields.io/badge/-nvidia-%2376B900?style=flat-square&logo=nvidia&logoColor=white"/>
+<img alt="1panel" src="https://img.shields.io/badge/-1panel-%230854C1?style=flat-square&logo=1panel&logoColor=white"/>
+<img alt="amd" src="https://img.shields.io/badge/-amd-%23ED1C24?style=flat-square&logo=amd&logoColor=white"/>
+<img alt="easyeda" src="https://img.shields.io/badge/-easyeda-%231765F6?style=flat-square&logo=easyeda&logoColor=white"/>
+<img alt="lua" src="https://img.shields.io/badge/-lua-%232C2D72?style=flat-square&logo=lua&logoColor=white"/>
+<img alt="armkeil" src="https://img.shields.io/badge/-armkeil-%23394049?style=flat-square&logo=armkeil&logoColor=white"/>
+<img alt="stmicroelectronics" src="https://img.shields.io/badge/-stmicroelectronics-%2303234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
+<img alt="clion" src="https://img.shields.io/badge/-clion-%23000000?style=flat-square&logo=clion&logoColor=white"/>
+<img alt="" src=""/>
+<img alt="" src=""/>
 <img alt="" src=""/>
 <img alt="" src=""/>
 <img alt="" src=""/>
