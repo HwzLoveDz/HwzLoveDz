@@ -24,8 +24,8 @@
 <img alt="armkeil" src="https://img.shields.io/badge/-armkeil-%23394049?style=flat-square&logo=armkeil&logoColor=white"/>
 <img alt="stmicroelectronics" src="https://img.shields.io/badge/-stmicroelectronics-%2303234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
 <img alt="clion" src="https://img.shields.io/badge/-clion-%23000000?style=flat-square&logo=clion&logoColor=white"/>
-<img alt="" src=""/>
-<img alt="" src=""/>
+<img alt="eclipseide" src="https://img.shields.io/badge/-eclipseide-%232C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+<img alt="mingww64" src="https://img.shields.io/badge/-mingww64-%23000000?style=flat-square&logo=mingww64&logoColor=white"/>
 <img alt="" src=""/>
 <img alt="" src=""/>
 <img alt="" src=""/>
