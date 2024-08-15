@@ -2,6 +2,26 @@
   <img src="https://github.com/user-attachments/assets/3d954f47-bd92-458f-8beb-de753c76b96f" width="400px" />
 </p>
 
+<img alt="Allegro" src="https://img.shields.io/badge/-Allegro-FF5A00?style=flat-square&logo=Allegro&logoColor=white"/>
+<img alt="kicad" src="https://img.shields.io/badge/-kicad-314CB0?style=flat-square&logo=kicad&logoColor=white"/>
+<img alt="altiumdesigner" src="https://img.shields.io/badge/-altiumdesigner-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white"/>
+<img alt="dassaultsystemes" src="https://img.shields.io/badge/-dassaultsystemes-005386?style=flat-square&logo=dassaultsystemes&logoColor=white"/>
+<img alt="vim" src="https://img.shields.io/badge/-vim-019733?style=flat-square&logo=vim&logoColor=white"/>
+<img alt="ubuntu" src="https://img.shields.io/badge/-ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+<img alt="linux" src="https://img.shields.io/badge/-linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
+<img alt="espressif" src="https://img.shields.io/badge/-espressif-%23E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+<img alt="arduino" src="https://img.shields.io/badge/-arduino-%2300878F?style=flat-square&logo=arduino&logoColor=white"/>
+<img alt="c" src="https://img.shields.io/badge/-c-%23A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+<img alt="cplusplus" src="https://img.shields.io/badge/-cplusplus-%2300599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/-python-%233776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img alt="micropython" src="https://img.shields.io/badge/-micropython-%232B2728?style=flat-square&logo=micropython&logoColor=white"/>
+<img alt="pycharm" src="https://img.shields.io/badge/-pycharm-%23000000?style=flat-square&logo=pycharm&logoColor=white"/>
+<img alt="nvidia" src="https://img.shields.io/badge/-nvidia-%2376B900?style=flat-square&logo=nvidia&logoColor=white"/>
+<img alt="" src=""/>
+<img alt="" src=""/>
+<img alt="" src=""/>
+<img alt="" src=""/>
+
 <p align="center">
   <code><img height="35" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/arduino/arduino.png"></code>
   <code><img height="35" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
