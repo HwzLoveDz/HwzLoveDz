@@ -45,6 +45,8 @@
   <img alt="openai" src="https://img.shields.io/badge/-openai-%23412991?style=flat-square&logo=openai&logoColor=white"/>
 </p>
 
+***
+
 <p align="center">
   <code><img height="35" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/arduino/arduino.png"></code>
   <code><img height="35" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
@@ -59,8 +61,6 @@
   <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"></code>
   <code><img height="35" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code>
 </p>
-
-***
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HwzLoveDz&theme=highcontrast&include_all_commits=true" alt="my github stats" height="190px" />
