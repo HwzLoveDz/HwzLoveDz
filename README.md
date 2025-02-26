@@ -1,9 +1,10 @@
 <p align="center">    
 <!--   <img src="https://github.com/user-attachments/assets/3d954f47-bd92-458f-8beb-de753c76b96f" width="400px" /> -->
-  <img src="https://github.com/user-attachments/assets/b0a5bd78-4e68-42ee-bd64-a22059c6d651" width="400px" /> 
+<!--   <img src="https://github.com/user-attachments/assets/b0a5bd78-4e68-42ee-bd64-a22059c6d651" width="400px" /> -->
 </p>
 
-<!--   <p align="center">
+<!--
+<p align="center">
   <code><img height="35" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/arduino/arduino.png"></code>
   <code><img height="35" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
   <code><img height="35" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
@@ -13,9 +14,8 @@
   <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
   <code><img height="35" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></code>
   <code><img height="35" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code>
-</p> -->
-
-***
+</p>
+-->
 
 <p align="center">
   <img alt="espressif" src="https://img.shields.io/badge/-espressif-%23E7352C?style=flat-square&logo=espressif&logoColor=white"/>
