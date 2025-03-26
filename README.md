@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="![HwzLoveDz's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwzLoveDz\&include_all_commits=true)" alt="my github stats" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HwzLoveDz&count_private=true&include_all_commits=true" alt="my github stats" height="190px" />
     &nbsp;
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HwzLoveDz&langs_count=12&layout=compact&theme=highcontrast&include_all_commits=true" height="190px">
 </p>
