@@ -16,6 +16,15 @@
   <code><img height="35" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code>
 </p>
 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
+    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
+  </picture>
+</p>
 
 <p align="center">
   <img alt="espressif" src="https://img.shields.io/badge/-espressif-%23E7352C?style=flat-square&logo=espressif&logoColor=white"/>
@@ -67,7 +76,28 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HwzLoveDz&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide=contribs" alt="my github stats" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HwzLoveDz&count_private=true&include_all_commits=true&show_icons=true&theme=calm_pink&hide=contribs" alt="my github stats" height="190px" />
     &nbsp;
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HwzLoveDz&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HwzLoveDz&langs_count=12&layout=compact&theme=calm_pink&include_all_commits=true&hide=Roff,Ruby,Assembly,Handlebars,R,Lua" height="190px">
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HwzLoveDz&repo=AXP173-PMIC&theme=calm_pink" />
+    &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HwzLoveDz&repo=AXP202-PMIC&theme=calm_pink" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HwzLoveDz&repo=AXP2101-PMIC&theme=calm_pink" />
+    &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HwzLoveDz&repo=ESP32-ADC-sense-battery-voltage&theme=calm_pink" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HwzLoveDz&repo=VK3809IP_ESP-IDF_Slider&theme=calm_pink" />
+    &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HwzLoveDz&repo=BM8563_ESP-IDF_Realtimechip&theme=calm_pink" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HwzLoveDz&repo=U8G2_ESP-IDF_OLED&theme=calm_pink" />
+    &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HwzLoveDz&repo=ESP-Pocket2&theme=calm_pink" />
 </p>
