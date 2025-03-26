@@ -93,6 +93,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HwzLoveDz&langs_count=12&layout=compact&theme=calm_pink&include_all_commits=true&hide=Roff,Ruby,Assembly,Handlebars,R,Lua" height="190px">
 </p>
 
+<!--
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HwzLoveDz&repo=AXP173-PMIC&theme=calm_pink" />
     &nbsp;
@@ -113,3 +114,4 @@
     &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HwzLoveDz&repo=ESP-Pocket2&theme=calm_pink" />
 </p>
+-->
