@@ -22,7 +22,7 @@
 
 ```bash
 $ whoami
-Harvey_Zhe @ Shenzhen, China
+Harvey_Zhe @ BeiJing_Shenzhen, China
 
 $ cat ~/.bio
 Hardware engineer building open-source gadgets.
