@@ -2,17 +2,17 @@
 <!--  Harvey_Zhe — Hardware Engineer / Cyclist   -->
 <!-- ============================================ -->
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3c2b9973-3c2b-4005-bcf2-89dc9eefec0e" width="520" alt="off the saddle, on the grass" />
-</p>
+<!-- <p align="center"> -->
+  <!-- <img src="https://github.com/user-attachments/assets/3c2b9973-3c2b-4005-bcf2-89dc9eefec0e" width="520" alt="off the saddle, on the grass" /> -->
+<!-- </p> -->
 
-<p align="center">
-  <em>I chase paychecks so I can chase horizons</em>
-</p>
+<!-- <p align="center"> -->
+  <!-- <em>I chase paychecks so I can chase horizons</em> -->
+<!-- </p> -->
 
 <p align="center">
   <a href="https://github.com/HwzLoveDz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00D26A&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+Harvey_Zhe;Hardware+Engineer+%C2%B7+Firmware+Tinkerer;PowerManagement+%C2%B7+Display+%C2%B7+BrushlessMotor+%E2%9A%A1;Open+Source+%C2%B7+Open+Hardware" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00D26A&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+Harvey;Hardware+Engineer+%C2%B7+Firmware+Tinkerer;PowerManagement+%C2%B7+Display+%C2%B7+BrushlessMotor+%E2%9A%A1;Open+Source+%C2%B7+Open+Hardware" alt="typing" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 ```bash
 $ whoami
-Harvey_Zhe @ BeiJing_Shenzhen, China
+Harvey @ BeiJing_Shenzhen, China
 
 $ cat ~/.bio
 Hardware engineer building open-source gadgets.
